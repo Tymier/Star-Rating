@@ -1,0 +1,9 @@
+body{
+    background: grey;
+}
+
+.stars {
+    text-align: center;
+    margin-top: 15rem;
+    font-size: 5rem;
+}
